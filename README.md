@@ -5,3 +5,11 @@ Please go to the [Hotmaps-Wiki-page](https://github.com/HotMaps/hotmaps_wiki/wik
 
 
 ![Hotmaps Logo](https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg)
+
+
+
+General information on wikis in github:
+https://help.github.com/articles/about-github-wikis/
+
+Cheetsheet on Markdown formating:
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
