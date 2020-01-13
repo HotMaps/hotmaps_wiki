@@ -1,15 +1,12 @@
 # Hotmaps Wiki
-This repository only hosts the Hotmaps Wiki including the documents in the WIKI.
-
-Please go to the [Hotmaps-Wiki-page](https://github.com/HotMaps/hotmaps_wiki/wiki) to see the documentation of the Hotmaps toolbox and a handbook that will guide you on how to use the toolbox for heating and cooling planning.
 
 
-![Hotmaps Logo](https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg)
+**Hotmaps Wiki immigrated to a new platform and can be reached via: www.wiki.hotmaps.eu**
 
 
+As a result, the Hotmaps Wiki on this GitHub repository will not be updated anymore. 
 
-General information on wikis in github:
-https://help.github.com/articles/about-github-wikis/
 
-Cheetsheet on Markdown formating:
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+<img src="https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg" alt="drawing" width="250"/>
+
+<img src="https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_high.jpg" alt="drawing" width="250"/>
